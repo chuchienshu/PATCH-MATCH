@@ -2,4 +2,4 @@
 
 
 ### Feature:
-#### Used to reconstrct the second color frame base on both the first color frame and the corresponding map that computed from their grayscale counterparts.
+#### Used to reconstruct the second color frame base on both the first color frame and the corresponding map that computed from their grayscale counterparts.
